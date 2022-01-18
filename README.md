@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Classification with CNN](https://wimukthimadhusanka85.medium.com/image-classification-with-cnn-3fc30c5dd65?source=rss-5d955fe06660------2)
+- [Learning to Rank with XGBoost](https://wimukthimadhusanka85.medium.com/learning-to-rank-with-xgboost-175fa6ceeed0?source=rss-5d955fe06660------2)
+- [Multi-label Classification](https://wimukthimadhusanka85.medium.com/multi-label-classification-e259896182da?source=rss-5d955fe06660------2)
+- [Univariate  Modelling for Financial Data  using  R](https://wimukthimadhusanka85.medium.com/univariate-modelling-for-financial-data-using-r-1643be4fad52?source=rss-5d955fe06660------2)
 <!-- BLOG-POST-LIST:END -->
 
 
