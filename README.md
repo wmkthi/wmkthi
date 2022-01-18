@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+Latest blog post workflow
 <!-- BLOG-POST-LIST:END -->
 
 
