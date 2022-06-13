@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning, Microsoft Azure Cloud Computer Services**
 
-- 📫 How to reach me **wimukthimadhusanka85@gmail.com**
+- 📫 How to reach me **wimukthi.thommadurage@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
